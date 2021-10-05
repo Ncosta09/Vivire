@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1626927320 source:d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<sstream>
+	"rlutil.h"
+	"Herramientas.h"
+	"Fecha.h"
+	"FechaAuto.h"
+	"Habitaciones.h"
+	"Clientes.h"
+	"Ventas_CAB_DET.h"
+	"Factura.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1626917866 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\habitaciones.h
+
+1623971674 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\funciones_hb.h
+
+1626917858 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\clientes.h
+
+1626878623 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\fecha.h
+
+1626548833 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventascabecera.h
+
+1624510496 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventas.h
+
+1626548849 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventasdetalle.h
+	"VentasCabecera.h"
+
+1626919403 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\configuracion.h
+
+1626889717 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\factura.h
+
+1625521111 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\fechaauto.h
+
+1571584339 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626290401 source:d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\rr.rc
+
+1626926526 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\reportes.h
+
+1626313056 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\herramientas.h
+
+1626922275 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventas_cab_det.h
+
